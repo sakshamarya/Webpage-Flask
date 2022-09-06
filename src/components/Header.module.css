@@ -1,0 +1,10 @@
+.main{
+    height: 8vh;
+    padding: 1vh;
+    font-size: 6vh;
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(224, 237, 237);
+    color: darkblue;
+    border-bottom: 2px solid rgb(242, 242, 247);
+}

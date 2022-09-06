@@ -1,0 +1,20 @@
+.main{
+    height: 88vh;
+    padding: 5vh 40vh;
+    background-color: aliceblue;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading{
+    font-size: 4vh;
+    font-weight: bold;
+    color: blue;
+    margin: 3vh;
+}
+
+.body{
+    font-size: 3vh;
+    color: brown;
+    line-height: 4vh;
+}
